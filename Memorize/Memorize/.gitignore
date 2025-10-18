@@ -1,0 +1,44 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# User settings
+*.xcuserstate
+*.xcuserdatad/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/xcode/
+.swiftpm/cache/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# SwiftPM Artifacts
+Artifacts/
+
+# Misc
+.DS_Store
+*.orig
+*.rej
+*.swp
+*.lock
+
+# Xcode previews cache
+*.preview-thumbnails
+.previews/
